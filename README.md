@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @egiberne
-- 👀 I’m interested in Cloud
+- 👋 Hi, I’m Emerick
+- 👀 I’m interested in Cloud & M365
 - 🌱 I’m currently learning Azure Active Directory & Microsoft 365
 - 💞️ I’m looking to collaborate on Cloud & M365 project
 - 📫 How to reach me egiberne@gmail.com
